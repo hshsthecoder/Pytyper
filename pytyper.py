@@ -18,7 +18,6 @@ while line_num > 0:
 
 #To-Do
 #Saving in other folders
-#line break support
 #add reading mode
-#make reading mode less "hacky"
+#make reading mode
 #make own file ext that pytyper can open
