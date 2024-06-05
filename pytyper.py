@@ -4,6 +4,7 @@ from time import sleep
 
 #program start
 print("Welcome To Pytyper by Jack")
+print("IMPORTANT: READING AND OR EDITING FILES NOT YET SUPORTED")
 doc_name = input("Name Output File (txt format)")
 line_num = int(input("enter aprox line numbers needed (cant add more later so good luck)"))
 file = open(doc_name + ".txt", 'w')
