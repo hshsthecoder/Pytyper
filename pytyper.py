@@ -24,7 +24,6 @@ else:
         file.write(text+"\n")
         line_num = line_num - 1
 
-
 #To-Do
 #Saving in other folders
 #add reading mode
