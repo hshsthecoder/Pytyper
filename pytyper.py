@@ -5,11 +5,11 @@ from time import sleep
 #program start
 print("Welcome To Pytyper by Jack")
 print("IMPORTANT: READING AND OR EDITING FILES NOT YET SUPORTED")
-read = int(input("are we wanting to read a file (1 is yes 0 is no)"))
-if read == 1:
-    file_read_name = input("Enter file path")    
-    file_read = open(file_read_name)
-    print(file_read)
+open_read = int(input("are we wanting to read a file (1 is yes 0 is no)"))
+if open_read == 1:
+    file_read_name = input("Enter file path: ")    
+    print(open(file_read_name, 'r').read()) 
+    
 else:
     doc_name = input("Name Output File (txt format)")
     line_num = int(input("enter aprox line numbers needed (cant add more later so good luck)"))
