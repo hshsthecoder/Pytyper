@@ -26,6 +26,4 @@ else:
 
 #To-Do
 #Saving in other folders
-#add reading mode
-#make reading mode
-#make own file ext that pytyper can open
+#Editing Files using the 
