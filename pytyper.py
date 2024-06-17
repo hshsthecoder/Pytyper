@@ -1,7 +1,7 @@
 #import libs
 import os
 from time import sleep
-
+import PySimpleGUI as sg
 
 #program start
 print(" Pytyper Copyright (C) 2024  Jack Catchpole \n This program comes with ABSOLUTELY NO WARRANTY; \n This is free software, and you are welcome to redistribute it")
