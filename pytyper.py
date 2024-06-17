@@ -2,6 +2,7 @@
 import os
 from time import sleep
 
+
 #program start
 print(" Pytyper Copyright (C) 2024  Jack Catchpole \n This program comes with ABSOLUTELY NO WARRANTY; \n This is free software, and you are welcome to redistribute it")
 sleep (1)
@@ -26,4 +27,5 @@ else:
 #To-Do
 #Saving in other folders
 #Editing Files using the
-#Make App Use A GUI instead of command line
+#Make App Use A GUI instead of command line refer to https://realpython.com/pysimplegui-python/
+
