@@ -5,7 +5,6 @@ from time import sleep
 #program start
 print(" Pytyper Copyright (C) 2024  Jack Catchpole \n This program comes with ABSOLUTELY NO WARRANTY; \n This is free software, and you are welcome to redistribute it")
 sleep (1)
-print("Welcome To Pytyper by Jack")
 print("IMPORTANT: READING AND OR EDITING FILES NOT YET SUPORTED")
 open_read = int(input("are we wanting to read a file (1 is yes 0 is no)"))
 if open_read == 1:
