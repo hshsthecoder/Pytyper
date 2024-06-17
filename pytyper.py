@@ -25,4 +25,5 @@ else:
 
 #To-Do
 #Saving in other folders
-#Editing Files using the 
+#Editing Files using the
+#Make App Use A GUI instead of command line
