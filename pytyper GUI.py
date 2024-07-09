@@ -29,6 +29,6 @@ label = tk.Label(text="Hello, Tkinter")
 #To-Do
 #Saving in other folders
 #Editing Files using the
-#Make App Use A GUI instead of command line refer to https://realpython.com/python-gui-tkinter/
+#Make App Use A GUI instead of command line refer to https://www.geeksforgeeks.org/python-gui-tkinter/
 
 
