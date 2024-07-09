@@ -1,9 +1,12 @@
 #import libs
 import os
 from time import sleep
-import tkinter as tk
+import tkinter
+from tkinter import *
 
-label = tk.Label(text="Hello, Tkinter")
+window = tkinter.Tk()
+Label(window, text='PyTyper GUI')
+window.mainloop()
 
 #non gui program start
 #print(" Pytyper Copyright (C) 2024  Jack Catchpole \n This program comes with ABSOLUTELY NO WARRANTY; \n This is free software, and you are welcome to redistribute it")
