@@ -3,9 +3,13 @@ import os
 from time import sleep
 import tkinter
 from tkinter import *
-
+#program start
 window = tkinter.Tk()
 Label(window, text='PyTyper GUI')
+text = Entry(window)
+text.grid(row=1, column=1)
+
+
 window.mainloop()
 
 #non gui program start
