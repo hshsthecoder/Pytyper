@@ -1,12 +1,9 @@
 #import libs
 import os
 from time import sleep
+import tkinter as tk
 
-
-
-
-
-
+window = tk.Tk()
 
 
 #non gui program start
@@ -33,5 +30,6 @@ from time import sleep
 #To-Do
 #Saving in other folders
 #Editing Files using the
-#Make App Use A GUI instead of command line refer to https://realpython.com/pysimplegui-python/
+#Make App Use A GUI instead of command line refer to https://realpython.com/python-gui-tkinter/
+
 
